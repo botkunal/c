@@ -1,0 +1,175 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "test11",
+            "request": "launch",
+            "mainClass": "test11",
+            "projectName": "c_4c3a0f6d"
+        },
+        {
+            "type": "java",
+            "name": "qu2021",
+            "request": "launch",
+            "mainClass": "qu2021",
+            "projectName": "c_4c3a0f6d"
+        },
+        {
+            "type": "java",
+            "name": "pakageA",
+            "request": "launch",
+            "mainClass": "pakageA",
+            "projectName": "c_4c3a0f6d"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Aggreagate1",
+            "request": "launch",
+            "mainClass": "Aggreagate1",
+            "projectName": "c_4c3a0f6d"
+        },
+        {
+            "type": "java",
+            "name": "Arthemetic_exp",
+            "request": "launch",
+            "mainClass": "Arthemetic_exp",
+            "projectName": "c_4c3a0f6d"
+        },
+        {
+            "type": "java",
+            "name": "Interface1",
+            "request": "launch",
+            "mainClass": "Interface1",
+            "projectName": "c_4c3a0f6d"
+        },
+        {
+            "type": "java",
+            "name": "Number_frormat",
+            "request": "launch",
+            "mainClass": "Number_frormat",
+            "projectName": "c_4c3a0f6d"
+        },
+        {
+            "type": "java",
+            "name": "Rectarea1",
+            "request": "launch",
+            "mainClass": "Rectarea1",
+            "projectName": "c_4c3a0f6d"
+        },
+        {
+            "type": "java",
+            "name": "Rectarea2",
+            "request": "launch",
+            "mainClass": "Rectarea2",
+            "projectName": "c_4c3a0f6d"
+        },
+        {
+            "type": "java",
+            "name": "Single_inhertaince",
+            "request": "launch",
+            "mainClass": "Single_inhertaince",
+            "projectName": "c_4c3a0f6d"
+        },
+        {
+            "type": "java",
+            "name": "abstractfun",
+            "request": "launch",
+            "mainClass": "abstractfun",
+            "projectName": "c_4c3a0f6d"
+        },
+        {
+            "type": "java",
+            "name": "calculate",
+            "request": "launch",
+            "mainClass": "calculate",
+            "projectName": "c_4c3a0f6d"
+        },
+        {
+            "type": "java",
+            "name": "cheak",
+            "request": "launch",
+            "mainClass": "cheak",
+            "projectName": "c_4c3a0f6d"
+        },
+        {
+            "type": "java",
+            "name": "cimline",
+            "request": "launch",
+            "mainClass": "cimline",
+            "projectName": "c_4c3a0f6d"
+        },
+        {
+            "type": "java",
+            "name": "compostion1",
+            "request": "launch",
+            "mainClass": "compostion1",
+            "projectName": "c_4c3a0f6d"
+        },
+        {
+            "type": "java",
+            "name": "counter",
+            "request": "launch",
+            "mainClass": "counter",
+            "projectName": "c_4c3a0f6d"
+        },
+        {
+            "type": "java",
+            "name": "deffault",
+            "request": "launch",
+            "mainClass": "deffault",
+            "projectName": "c_4c3a0f6d"
+        },
+        {
+            "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "c_4c3a0f6d"
+        },
+        {
+            "type": "java",
+            "name": "null_pointer_exp",
+            "request": "launch",
+            "mainClass": "null_pointer_exp",
+            "projectName": "c_4c3a0f6d"
+        },
+        {
+            "type": "java",
+            "name": "parametric_constructor",
+            "request": "launch",
+            "mainClass": "parametric_constructor",
+            "projectName": "c_4c3a0f6d"
+        },
+        {
+            "type": "java",
+            "name": "print1to20",
+            "request": "launch",
+            "mainClass": "print1to20",
+            "projectName": "c_4c3a0f6d"
+        },
+        {
+            "type": "java",
+            "name": "staticvariable",
+            "request": "launch",
+            "mainClass": "staticvariable",
+            "projectName": "c_4c3a0f6d"
+        },
+        {
+            "type": "java",
+            "name": "super_key",
+            "request": "launch",
+            "mainClass": "super_key",
+            "projectName": "c_4c3a0f6d"
+        }
+    ]
+}
